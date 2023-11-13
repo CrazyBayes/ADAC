@@ -3,7 +3,7 @@ This is the source code of ADAC based on [R-MADPG](https://proceedings.neurips.c
 
 (Option A) In these tasks, the agents of opponents or good agents should be pre-trained in 20k episodes. 
 
-(Option B) Or, optional, you can use the files in fold /pretrained/ where have pre-trained opponenets or good agens in 20k episodes by MADDPG.
+(Option B) Or, optional, you can use the files in fold **/pretrained/** where have pre-trained opponenets or good agens in 20k episodes by MADDPG.
 
 For example, you can execute the ADAC as follows based on Option B.
 
