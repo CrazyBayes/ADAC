@@ -17,4 +17,4 @@ python ADAC.py  --scenario=adversarial --max-episode-len=50 --lr-actor=0.001 --l
 ```
 
 # Acknowledgments
-We want to express our gratitude to the authors of [*R-MADDPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) for providing the source code.
+We want to express our gratitude to the authors of [*R-MADDPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) for publishing the source code.
