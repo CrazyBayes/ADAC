@@ -2,7 +2,7 @@
 This is the source code of ADAC based on [*R-MADPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) and our paper is submitted into journal "".
 # Prerequisites
 ## Install dependencies
-See ''requirments.txt'' file for more information about how to install the dependencies.
+See ``requirments.txt`` file for more information about how to install the dependencies.
 ## Environments
 The environments used in our paper are based on the [multi-agent particle environment (MPE)](https://github.com/openai/multiagent-particle-envs), including *Predator-prey*, *Adversarial*, and *Grassland*.
 # Usages
