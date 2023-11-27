@@ -4,7 +4,7 @@ This is the source code of ADAC based on [*R-MADPG*](https://proceedings.neurips
 ## Install dependencies
 See ``requirments.txt`` file for more information about how to install the dependencies.
 ## Environments
-The environments used in our paper are based on the [multi-agent particle environment (MPE)](https://github.com/openai/multiagent-particle-envs), including *Predator-prey*, *Adversarial*, and *Grassland*.
+The environments used in our paper are based on the [multi-agent particle environment (MPE)](https://github.com/openai/multiagent-particle-envs), including *Predator-prey*, [*Adversarial*, and *Grassland*](https://github.com/qian18long/epciclr2020).
 # Usages
 (Option A) In these tasks, the agents of opponents or good agents should be pre-trained in 20k episodes. 
 
