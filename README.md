@@ -13,12 +13,12 @@ The environments used in our paper are based on the [multi-agent particle enviro
 For example, you can execute the *ADAC* as follows based on Option B.
 #### Adversarial
 ```python
-python ADAC.py  --scenario=adversarial --max-episode-len=50 --lr-actor=0.001 --lr-critic=0.001 --adv-policy=adac  --good-policy=maddpg --resume=/pretrained/Adversarial_resume_8V8/ --n-food=6 --n-good=8 --alpha=0.0 --n-adv=8 --exp-run-num=0
+python ADAC.py  --scenario=adversarial --max-episode-len=50 --lr-actor=0.001 --lr-critic=0.001 --adv-policy=adac  --good-policy=maddpg --resume=/pretrained/Adversarial_resume_8V8/ --n-food=6 --n-good=8  --n-adv=8 --exp-run-num=0
 ```
 
 #### Grassland
 ```python
-python ADAC.py  --scenario=grassland --max-episode-len=25 --lr-actor=0.001 --lr-critic=0.001 --adv-policy=adac  --good-policy=maddpg --resume=/pretrained/Grassland_resume_4V6/ --n-food=4 --n-good=4 --n-adv=6  --exp-run-num=0
+python ADAC.py  --scenario=grassland --max-episode-len=25 --lr-actor=0.001 --lr-critic=0.001 --adv-policy=adac  --good-policy=maddpg --resume=/pretrained/Grassland_resume_4V6/ --alpha=0.0 --n-food=4 --n-good=4 --n-adv=6  --exp-run-num=0
 ```
 
 #### Predator-prey
