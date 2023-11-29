@@ -1,5 +1,5 @@
 # ADAC: Actor-Double-Attention-Critic for Multi-agent Reinforcement  Learning
-This is the source code of ADAC based on [*R-MADPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) and our paper is submitted into journal "*IEEE Transactions on Intelligent Transportation systems*", which is under review now.
+This is the source code of ADAC based on [*R-MADDPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) and our paper is submitted into journal "*IEEE Transactions on Intelligent Transportation systems*", which is under review now.
 # Prerequisites
 ## Install dependencies
 See ``requirments.txt`` file for more information about how to install the dependencies.
