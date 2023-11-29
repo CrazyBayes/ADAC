@@ -1,14 +1,14 @@
 # ADAC: Actor-Double-Attention-Critic for Multi-agent Reinforcement  Learning
-This is the source code of ADAC based on [*R-MADPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) and our paper is submitted into journal "*IEEE Transactions on Intelligent Transportation systems*".
+This is the source code of ADAC based on [*R-MADPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) and our paper is submitted into journal "*IEEE Transactions on Intelligent Transportation systems*", which is under review now.
 # Prerequisites
 ## Install dependencies
 See ``requirments.txt`` file for more information about how to install the dependencies.
 ## Environments
 The environments used in our paper are based on the [multi-agent particle environment (MPE)](https://github.com/openai/multiagent-particle-envs), including *Predator-prey*, [*Adversarial*, and *Grassland*](https://github.com/qian18long/epciclr2020).
 # Usages
-(Option A) In these tasks, the agents of opponents or good agents should be pre-trained in 20k episodes. 
+(Option A) In these tasks, the opponents or good agents should be pre-trained in 20k episodes. 
 
-(Option B) Or, optionally, you can use the files in fold **/pretrained/** where have pre-trained opponenets or good agens in 20k episodes by *MADDPG*.
+(Option B) Or, optionally, you can use the files in folder **/pretrained/** where opponents or good agents have pre-trained in 20k episodes by *MADDPG*. 
 
 For example, you can execute the *ADAC* as follows based on Option B.
 
