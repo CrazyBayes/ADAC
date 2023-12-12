@@ -8,7 +8,7 @@ The environments used in our paper are based on the [multi-agent particle enviro
 # Usages
 (Option A) In these tasks, the opponents or good agents should be pre-trained in 20k episodes. 
 
-(Option B) Or, optionally, you can use the files in folder ``**/pretrained/**`` where opponents or good agents have pre-trained in 20k episodes by *MADDPG*. 
+(Option B) Or, optionally, you can use the files in folder **``/pretrained/``** where opponents or good agents have pre-trained in 20k episodes by *MADDPG*. 
 
 For example, you can execute the *ADAC* as follows based on Option B.
 #### Adversarial
