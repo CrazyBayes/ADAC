@@ -28,3 +28,12 @@ python ADAC.py  --scenario=simple_tag --max-episode-len=25 --lr-actor=0.001 --lr
 
 # Acknowledgments
 We want to express our gratitude to the authors of [*R-MADDPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) for publishing the source code.
+# Citation
+@ARTICLE{10979333,
+  author={Kong, He and Xing, Qianli and Wang, Qi and Niu, Runliang and Chen, Hechang and Wang, Yu and Wang, Shiqi and Duan, Zhiyi and Chang, Yi},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={ADAC: Actor-Double-Attention-Critic for Multi-Agent Cooperation in Mixed Cooperative-Competitive Environments}, 
+  year={2025},
+  pages={1-14},
+  doi={10.1109/TITS.2025.3562302}}
+
