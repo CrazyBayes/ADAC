@@ -1,5 +1,5 @@
 # ADAC: Actor-Double-Attention-Critic for Multi-agent Cooperation in Mixed Cooperative-competitive Environments
-This is the source code of ADAC based on [*R-MADDPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) and our paper is accepted by journal "*IEEE Transactions on Intelligent Transportation Systems*".
+This is the source code of ADAC based on [*R-MADDPG*](https://proceedings.neurips.cc/paper_files/paper/2020/hash/774412967f19ea61d448977ad9749078-Abstract.html) and our paper is published by journal "*IEEE Transactions on Intelligent Transportation Systems*".
 # Prerequisites
 ## Install dependencies
 See ``requirments.txt`` file for more information about how to install the dependencies.
